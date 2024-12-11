@@ -20,11 +20,11 @@ Este repositório contém o código para avaliação da Etapa Desafio
 3. Sistema Operacional Windows
 
 ## Instalação
-1. Clone este repositório no disco C: 'git clone <sua_url_do_repositorio>'
-2. Instale o Node.js caso não tenha: 
+1. Realize o Download ZIP do projeto através do botão <code>.
+2. Descompacte o mesmo dentro do disco C.
+3. Instale o Node.js caso não tenha: 
     - Acesse o site https://nodejs.org/en/download/prebuilt-installer
     - Logo após selecionar uma versão (LTS ou Current), será iniciado o download do instalador para Windows.
       - Assim como é comum nos instaladores do Windows, basta seguir clicando nos botões Next até chegar ao final da instalação.
     - Assim que a instalação for finalizada, inicie o seu terminal e digite node -v e aperte a tecla Enter
-3. Abra o proejto no seu editor de código-fonte
-4.      
+4. Abra o proejto no seu editor de código-fonte
