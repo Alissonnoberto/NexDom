@@ -22,7 +22,7 @@ Este repositório contém o código para avaliação da Etapa Desafio
 ## Instalação
 1. Realize o Download ZIP do projeto através do botão <code>.
 2. Descompacte o mesmo dentro do disco C, escolhendo a opção 'Extrair aqui'.
-3. Extrair a pasta node_modules.rar dentro da pasta onde se encontra o projeto.
+3. Extrair a pasta node_modules.rar com a opção 'Extrai aqui'.
 4. Instale o Node.js caso não tenha: 
     - Acesse o site https://nodejs.org/en/download/prebuilt-installer
     - Logo após selecionar uma versão (LTS ou Current), será iniciado o download do instalador para Windows.
