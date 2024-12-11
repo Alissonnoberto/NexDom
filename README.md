@@ -21,10 +21,13 @@ Este repositório contém o código para avaliação da Etapa Desafio
 
 ## Instalação
 1. Realize o Download ZIP do projeto através do botão <code>.
-2. Descompacte o mesmo dentro do disco C.
-3. Instale o Node.js caso não tenha: 
+2. Descompacte o mesmo dentro do disco C, escolhendo a opção 'Extrair aqui'.
+3. Extrair a pasta node_modules.rar dentro da pasta onde se encontra o projeto.
+4. Instale o Node.js caso não tenha: 
     - Acesse o site https://nodejs.org/en/download/prebuilt-installer
     - Logo após selecionar uma versão (LTS ou Current), será iniciado o download do instalador para Windows.
-      - Assim como é comum nos instaladores do Windows, basta seguir clicando nos botões Next até chegar ao final da instalação.
+    - Assim como é comum nos instaladores do Windows, basta seguir clicando nos botões Next até chegar ao final da instalação.
     - Assim que a instalação for finalizada, inicie o seu terminal e digite node -v e aperte a tecla Enter
-4. Abra o proejto no seu editor de código-fonte
+        - Caso seja exibida a versão do Node, sua instalação foi feita com sucesso!
+5. Abra o proejto no seu editor de código-fonte.
+6. Execute os testes em cypress utilizando o comando npx cypress open no terminal do seu editor de código-fonte.
